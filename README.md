@@ -84,3 +84,6 @@ Improve profitability
 Identify sales opportunities
 Understand customer purchasing trends
 Make data-driven business decisions
+
+**Dashboard Preview**
+![Business_Analysis_Dashboard](Dashboard.png)
