@@ -86,4 +86,4 @@ Understand customer purchasing trends
 Make data-driven business decisions
 
 **Dashboard Preview**
-![Business_Analysis_Dashboard](Dashboard.png)
+![Business_Analysis_Dashboard](Dashboard(3).png)
